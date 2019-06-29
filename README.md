@@ -2,7 +2,7 @@
 
 Note: this project is in development which means is very unstable.
 
-This project allow you to access to [INE](http://www.ine.es/) data.
+This project allows you to access to [INE](http://www.ine.es/) data.
 
 ## Installation
 
